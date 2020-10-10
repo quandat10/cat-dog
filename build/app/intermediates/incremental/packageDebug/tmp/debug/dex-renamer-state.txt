@@ -1,0 +1,4 @@
+#Fri Oct 09 11:32:24 ICT 2020
+base.0=/Users/trandat/code/deeplearning/mobile/cat_and_dog/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
